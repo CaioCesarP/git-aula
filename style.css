@@ -3,7 +3,10 @@ body {
     padding: 0;
 }
 
-.titulo {
+.center {
+    width: 100vw;
+    height: 100vh;
+
     display: flex;
 
     justify-content: center;
